@@ -1,0 +1,32 @@
+{
+    "name": "Jane Doe",
+    "class": "Cat",
+    "gender": "female",
+    "level": 130,
+    "items": [
+        {
+            "name": "Sword",
+            "stats": {
+                "attack": 50,
+                "durability": 100
+            }
+        },
+        {
+            "name": "Shield",
+            "stats": {
+                "defense": 30,
+                "durability": 80
+            }
+        }
+    ],
+    "quests": [
+        "Defeat the Dragon",
+        "Rescue the Princess",
+        "Find the Lost Amulet"
+    ],
+    "HP": 1500,
+    "Stamina": 160,
+    "location": "Castle",
+    "guild": "Knights of the Round Table",
+    "hollowState": true
+}
